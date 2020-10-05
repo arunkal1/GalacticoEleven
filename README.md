@@ -9,7 +9,11 @@ Click this 'Code' button and you will see the following dropdown:
 
 <img src="https://github.com/arunkal1/GalacticoEleven/blob/main/img/how_to_clone.PNG">
 
-Click on the Download ZIP button to clone this repository Git Page. Then download the files - unzip all the downloaded folders and place them somewhere accessible along with the solution file. After which you are able to open the 'Genba Digital' solution file in Visual Studio.
+Click on the Download ZIP button to clone this repository Git Page. Then download the files, navigate to the GalacticoEleven.zip within the first downloaded zip folder and extract contents, which will give you the following view:
+
+<img src="https://github.com/arunkal1/GalacticoEleven/blob/main/img/extracted_files.PNG">
+
+Place this folder somewhere accessible. After which you are able to open the 'Genba Digital' solution file in Visual Studio.
 
 Before running any tests ensure all NuGet packages are successfully installed - if not you can restore missing packages via the 'NuGet Package Manager'.
 
