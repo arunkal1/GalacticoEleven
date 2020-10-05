@@ -1,9 +1,15 @@
 # GalacticoEleven
 Repository contains API and UI Automated Selenium tests for 'Galactico Eleven' a fantasy football game which users can create leagues with friends.
 
-To clone the repository, go to this [link](https://github.com/arunkal1/GalacticoEleven "Arun Kalwan - GalacticoEleven") and you will see the following page:
+To clone the repository, go to this [link](https://github.com/arunkal1/GalacticoEleven "Arun Kalwan - GalacticoEleven") and you will see the following button:
 
-Click on the Clone or Download button to clone this repository Git Page. Then download the files - unzip all the downloaded folders and place them somewhere accessible along with the solution file. After which you are able to open the 'Genba Digital' solution file in Visual Studio.
+<img src="https://github.com/arunkal1/GalacticoEleven/blob/main/img/code_button.PNG">
+
+Click this 'Code' button and you will see the following dropdown:
+
+<img src="https://github.com/arunkal1/GalacticoEleven/blob/main/img/how_to_clone.PNG">
+
+Click on the Download ZIP button to clone this repository Git Page. Then download the files - unzip all the downloaded folders and place them somewhere accessible along with the solution file. After which you are able to open the 'Genba Digital' solution file in Visual Studio.
 
 Before running any tests ensure all NuGet packages are successfully installed - if not you can restore missing packages via the 'NuGet Package Manager'.
 
