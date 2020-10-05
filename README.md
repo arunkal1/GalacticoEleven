@@ -22,7 +22,7 @@ Before running any tests ensure all NuGet packages are successfully installed - 
 3) Clean solution.
 4) Build solution
 5) View tests in the 'Test Explorer'
-6) Run tests with the below Scenario name 'GalacticoElevenAPI': 
+6) Run tests with the below Scenario name 'GalacticoElevenUI': 
 <img src="https://github.com/arunkal1/GalacticoEleven/blob/main/img/UI_TestExplorer.PNG">
 
 ### Automation API:
@@ -31,5 +31,5 @@ Before running any tests ensure all NuGet packages are successfully installed - 
 3) Clean solution.
 4) Build solution
 5) View tests in the 'Test Explorer'
-6) Run tests with the below Scenario name 'GalacticoElevenUI': 
+6) Run tests with the below Scenario name 'GalacticoElevenAPI': 
 <img src="https://github.com/arunkal1/GalacticoEleven/blob/main/img/API_TestExplorer.PNG">
